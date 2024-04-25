@@ -5,7 +5,7 @@
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/spectrejsx) 
 
 # 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=typescript,react,nextjs,prisma,tailwind)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=,react,mongodb,node,express,javascript,tailwind)](https://skillicons.dev)
 
 ### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
