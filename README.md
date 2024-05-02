@@ -1,8 +1,6 @@
 <h1>Hello 👋 , I'm Elyesa / Spectre </h1>
 
 
-## 🌐 Socials:
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/spectrejsx) 
 
 # 💻 Tech Stack:
 [![My Skills](https://skillicons.dev/icons?i=typescript,react,next,scss,tailwind,nodejs,express)](https://skillicons.dev)
