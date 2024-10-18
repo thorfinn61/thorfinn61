@@ -1,5 +1,4 @@
-
-Hello👋 , i'm Elyesa
+Elyesa.
 
 # 💻 Tech Stack:
 [![My Skills](https://skillicons.dev/icons?i=ts,react,next,tailwind,sass,prisma)](https://skillicons.dev)
