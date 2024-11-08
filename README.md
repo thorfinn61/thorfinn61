@@ -4,8 +4,7 @@ Elyesa.
 [![My Skills](https://skillicons.dev/icons?i=ts,react,next,tailwind,prisma,postgresql)](https://skillicons.dev)
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Spectrenard&theme=dark&hide_border=false)<br/>
-![a867ecd51a632f94ce98aad51621bf7e](https://github.com/user-attachments/assets/f5abece1-fc01-4299-ab45-9bfcb1e8209b)
-
+![cb9dd263099adac75b965e94d15b06b4](https://github.com/user-attachments/assets/46ac8b75-200f-429a-abd7-470ec9ef612b)
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --
