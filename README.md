@@ -1,1 +1,1 @@
-![samurai-champloo-498-x-280-gif-ucbcr36n96itfvn8](https://github.com/user-attachments/assets/c73a5538-bf9f-44e5-9cb0-c52ab9807f5d)
+![20141222_Rainbow_Manga_1_zps3eb5fb35](https://github.com/user-attachments/assets/eb770ace-b8e7-449e-9f09-103c3a5710e3)
