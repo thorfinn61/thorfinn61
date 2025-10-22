@@ -1,6 +1,1 @@
-Elyesa | 19
-
-# 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=ts,c,react,next,tailwind,express,prisma,postgresql)](https://skillicons.dev)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=Spectrenard&theme=dark&hide_border=false)<br/>
+![samurai-champloo-498-x-280-gif-ucbcr36n96itfvn8](https://github.com/user-attachments/assets/c73a5538-bf9f-44e5-9cb0-c52ab9807f5d)
